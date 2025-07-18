@@ -1,13 +1,17 @@
 # Goal Glimmer Chrome Extension
 
-A beautiful, motivational Chrome extension to track your weight milestones and rewards.
+A motivational Chrome extension to track your weight milestones and rewards.
 
 ## ✨ Features
 - Update and save your current weight
 - Add, view, and delete upcoming rewards
 - See how many kg are left for your next reward
 - Get a random, sassy Gandalf-style affirmation
-- Vintage UI with light/dark mode
+- UI with light/dark mode
+
+<img width="262" height="444" alt="image" src="https://github.com/user-attachments/assets/d338348f-0d6c-4d66-8dc6-bebf4a821293" />
+<img width="259" height="428" alt="image" src="https://github.com/user-attachments/assets/61d12942-9946-4dd9-8d12-b4754c0ba1e9" />
+
 
 ## 🚀 Quick Start
 
