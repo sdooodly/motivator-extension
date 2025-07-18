@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply font-vintage bg-vintage-light-bg dark:bg-vintage-dark-bg text-vintage-light-text dark:text-vintage-dark-text;
+}

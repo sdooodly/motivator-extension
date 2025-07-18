@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Goal Glimmer",
+  "version": "1.0.0",
+  "description": "Track your weight milestones and rewards with style!",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Goal Glimmer"
+  },
+  "permissions": ["storage"],
+  "icons": {
+    "16": "basic-star-flat-vector.png",
+    "48": "basic-star-flat-vector.png",
+    "128": "basic-star-flat-vector.png"
+  }
+} 
